@@ -1,0 +1,4 @@
+CSS partiellement fini
+manque le compte tours
+les indices
+l'anim
